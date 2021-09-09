@@ -1,0 +1,6 @@
+
+ Item 	 Value
+ apple : 10
+ mangoes : 20
+ banana : 12
+ dragon fruit : 20
